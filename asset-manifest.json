@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job-application-form/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/job-application-form/static/js/main.91a2cd3e.chunk.js",
+    "main.js.map": "/job-application-form/static/js/main.91a2cd3e.chunk.js.map",
+    "runtime-main.js": "/job-application-form/static/js/runtime-main.f322ceb2.js",
+    "runtime-main.js.map": "/job-application-form/static/js/runtime-main.f322ceb2.js.map",
+    "static/js/2.7395c499.chunk.js": "/job-application-form/static/js/2.7395c499.chunk.js",
+    "static/js/2.7395c499.chunk.js.map": "/job-application-form/static/js/2.7395c499.chunk.js.map",
+    "index.html": "/job-application-form/index.html",
+    "precache-manifest.f1162d2ac2c8432becc4cfab4ed069e7.js": "/job-application-form/precache-manifest.f1162d2ac2c8432becc4cfab4ed069e7.js",
+    "service-worker.js": "/job-application-form/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/job-application-form/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7395c499.chunk.js.LICENSE.txt": "/job-application-form/static/js/2.7395c499.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f322ceb2.js",
+    "static/js/2.7395c499.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.91a2cd3e.chunk.js"
+  ]
+}
